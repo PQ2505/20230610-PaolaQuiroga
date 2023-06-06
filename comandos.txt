@@ -1,0 +1,21 @@
+COMANDOS UTILIZADOS
+
+  164  git clone https://github.com/PQ2505/20230610-PaolaQuiroga.git
+  165  git status
+  166  git add .
+  167  git status
+  168  git commit -m "commit 01 de PaolaQuiroga"
+  169  git push origin main
+  170  git checkout -b feature
+  171  git status
+  172  git add .
+  173  git status
+  174  git commit -m "commit 02 de PaolaQuiiroga"
+  175  git push origin feature
+  176  git checkout main
+  177  history
+  178  git status
+  179  git add .
+  180  git status
+  181  git commit -m "commit 03 de PaolaQuiroga"
+  182  history
